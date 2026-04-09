@@ -55,6 +55,18 @@ I absolutely love problem solving. Love chasing those "Aha!" moments when the do
 
 </div>
 
+```javascript
+const mahdi = {
+  pronouns: "he/him",
+  code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C++", "C"],
+  tools: ["React", "Next.js", "Tailwind CSS", "Figma"],
+  architecture: ["component-driven", "responsive design", "clean UI patterns"],
+  currentlyWorking: "web development projects",
+  interests: ["problem solving", "UI/UX design", "connecting the dots 🔗"],
+  goal: "Becoming a full-stack developer",
+  funFact: "I chase 'Aha!' moments for breakfast ☕"
+}
+```
 ---
 
 ### 🤝 Connect with Me
