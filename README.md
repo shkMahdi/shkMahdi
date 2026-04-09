@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+&pause=500&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Mahdi+.+.+.;Good+To+See+You+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+&pause=500&center=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Mahdi+.+.+.;Good+To+See+You+%3A))](https://git.io/typing-svg)
 
 **SWE Student** · Building with HTML5, CSS3, JavaScript (ES6+), React.js & Next.js  
 Crafting visually appealing UIs with smooth UX · Aspiring full-stack developer · Open to internships
