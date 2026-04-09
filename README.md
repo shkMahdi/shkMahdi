@@ -11,19 +11,19 @@ Crafting visually appealing UIs with smooth UX | Aspiring full-stack developer |
 
 ---
 
-## About Me
+### About Me
 
 -  Currently working on **web development** projects
 -  Aspiring full-stack developer
 -  Open to **internship opportunities**
 
-## My Favourites
+### My Favourites
 
 I absolutely love problem solving. Love chasing those "Aha!" moments when the dots connect. The joy of exploring new things and figuring out how they work is everything for me.
 
 ---
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="24" height="24"/>
@@ -40,7 +40,7 @@ I absolutely love problem solving. Love chasing those "Aha!" moments when the do
 
 ---
 
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/shekh-mahdi-mesbah/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30"/>
