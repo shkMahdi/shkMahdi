@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shekh Mahdi Mesbah
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=435&lines=Hello%2C+there+👋🏽;I'm+Mahdi+...;Good+to+see+you+😄" alt="Typing SVG" />
 
 **SWE Student** · Building with HTML5, CSS3, JavaScript (ES6+), React.js & Next.js  
 Crafting visually appealing UIs with smooth UX · Aspiring full-stack developer · Open to internships
