@@ -15,6 +15,10 @@ Crafting visually appealing UIs with smooth UX | Aspiring full-stack developer |
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
 ### About Me
 - 🔭 Currently working on **web development** projects
 - 🎯 Aspiring full-stack developer
@@ -22,6 +26,13 @@ Crafting visually appealing UIs with smooth UX | Aspiring full-stack developer |
 
 ### My Favourites
 I absolutely love problem solving. Love chasing those "Aha!" moments when the dots connect. The joy of exploring new things and figuring out how they work is everything for me.
+
+  </td>
+  <td valign="center" width="40%">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlnbWM5NHY4MHlxMnZieHVtd2swZGEyMW5uNm03Ym15enN1NW9xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" />
+  </td>
+  </tr>
+</table>
 
 ---
 
