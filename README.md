@@ -56,7 +56,7 @@ I absolutely love problem solving. Love chasing those "Aha!" moments when the do
 </div>
 
 ```javascript
-const mahdi = {
+const shekhMahdi = {
   pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C++", "C"],
   tools: ["React", "Next.js", "Tailwind CSS", "Figma"],
