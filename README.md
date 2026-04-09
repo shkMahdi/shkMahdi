@@ -3,11 +3,12 @@
 <div align="center">
 
 <img width="3780" height="1890" alt="github comShkMahdi" src="https://github.com/user-attachments/assets/c905a0f1-879c-4e1d-9256-ec71c7fb301b" />
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+&pause=800&center=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Mahdi+.+.+.;Good+To+See+You+.+.+.)](https://git.io/typing-svg)
 
-**SWE Student** | Building with HTML5, CSS3, JavaScript (ES6+), React.js & Next.js  
+**SWE Student** | Building with HTML5, CSS3, JavaScript (ES6+), React.js & Next.js
 Crafting visually appealing UIs with smooth UX | Aspiring full-stack developer | Open to internships
 
 </div>
@@ -15,18 +16,20 @@ Crafting visually appealing UIs with smooth UX | Aspiring full-stack developer |
 ---
 
 ### About Me
-
--  Currently working on **web development** projects
--  Aspiring full-stack developer
--  Open to **internship opportunities**
+- 🔭 Currently working on **web development** projects
+- 🎯 Aspiring full-stack developer
+- 🤝 Open to **internship opportunities**
 
 ### My Favourites
-
 I absolutely love problem solving. Love chasing those "Aha!" moments when the dots connect. The joy of exploring new things and figuring out how they work is everything for me.
 
+---
+
 <div align="center">
-###🛠️ Languages & Tools
-<p align="left">
+
+### 🛠️ Languages & Tools
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="24" height="24"/>
@@ -38,7 +41,9 @@ I absolutely love problem solving. Love chasing those "Aha!" moments when the do
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="24" height="24"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="24" height="24"/>
 </p>
+
 </div>
+
 ---
 
 ### 🤝 Connect with Me
