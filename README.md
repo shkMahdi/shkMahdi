@@ -3,8 +3,9 @@
 <div align="center">
 
 <img width="3780" height="1890" alt="github comShkMahdi" src="https://github.com/user-attachments/assets/c905a0f1-879c-4e1d-9256-ec71c7fb301b" />
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+&duration=3000&pause=500&center=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Mahdi+.+.+.;Good+To+See+You+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+&pause=800&center=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Mahdi+.+.+.;Good+To+See+You+.+.+.)](https://git.io/typing-svg)
 
 **SWE Student** | Building with HTML5, CSS3, JavaScript (ES6+), React.js & Next.js  
 Crafting visually appealing UIs with smooth UX | Aspiring full-stack developer | Open to internships
