@@ -26,9 +26,9 @@ I absolutely love problem solving. Love chasing those "Aha!" moments when the do
 
 ---
 
-
-<div align="center"
 ### 🛠️ Languages & Tools
+<div align="center">
+🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24"/>
