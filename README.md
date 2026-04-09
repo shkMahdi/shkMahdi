@@ -24,11 +24,8 @@ Crafting visually appealing UIs with smooth UX | Aspiring full-stack developer |
 
 I absolutely love problem solving. Love chasing those "Aha!" moments when the dots connect. The joy of exploring new things and figuring out how they work is everything for me.
 
----
-
-### 🛠️ Languages & Tools
 <div align="center">
-🛠️ Languages & Tools
+###🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="24" height="24"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24"/>
