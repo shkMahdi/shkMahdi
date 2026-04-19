@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img width="3780" height="1890" alt="github comShkMahdi" src="https://github.com/user-attachments/assets/c905a0f1-879c-4e1d-9256-ec71c7fb301b" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c905a0f1-879c-4e1d-9256-ec71c7fb301b" width="700" alt="Banner" />
+</div>
 
 ---
 
