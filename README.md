@@ -58,7 +58,7 @@ I absolutely love problem solving. Love chasing those "Aha!" moments when the do
 </table>
 
 </div>
-</div>
+
 ```javascript
 const shekhMahdi = {
   pronouns: "he/him",
